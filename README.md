@@ -2,6 +2,8 @@
 
 TMS is a shell that lets you edit terminal settings from your terminal.
 
+As an unintentional bonus, it uses no external utilities - just bash built-ins!
+
 ## Commands
 
 (Note: You can also pull these up with `help` in the shell)
